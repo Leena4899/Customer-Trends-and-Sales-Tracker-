@@ -1,6 +1,7 @@
 # Customer-Trends-and-Sales-Tracker-
 Created a repository for showcasing PowerBI Dashboards- Customer Trends &amp; Sales Tracker.
- Project Overview: Consumer Trends & Sales Tracker
+
+Project Overview: Consumer Trends & Sales Tracker
 This project centered on developing a comprehensive sales performance dashboard to deliver actionable business insights and monitor consumer trends through key metrics and detailed segmentation. The primary objectives included evaluating critical KPIs such as revenue, profit, units sold, and delivery efficiency, segmented across multiple business dimensions:
 
 1. Sales Performance: Tracking overall revenue of $1.57M, profit of $175.26K, and 22,000 units sold to assess business health.
